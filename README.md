@@ -1,5 +1,6 @@
 # Documentacion API
-
+Es necesario configurar una base de datos mediante el archivo .env
+El proyecto corre en typescript y utilizando nodemon 
 ## Listar todas las tareas por el id del usuario
 
 ### Metodo GET
